@@ -244,3 +244,32 @@ li{
 #timer span{
     font-size: 5rem;
 }
+
+@media(max-width: 500px){
+    
+    #key2{
+        margin-left: 3rem;
+    }
+    
+    #key3{
+    
+        margin-left: 3rem;
+    }
+    
+    .key{
+        width: 3rem;
+        height: 4rem;
+    
+    }
+
+    
+    #backspace{
+        margin-left: 1.5rem;
+    }
+
+    
+    #enter{
+        margin-left: .5rem;
+        width: 9rem;
+    }
+}
